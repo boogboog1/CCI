@@ -1,0 +1,12 @@
+Help Documentation:
+Please note that ALL commands are lowercase.
+_____________________________________
+|Command    |Function               |
+|-----------|-----------------------|
+|Help       |Displays this help     |
+|Ver        |Shows CCI Version      |
+|Web        |Opens Desired URL      |
+|Search     |Searches Google        |
+|Cls        |Clears Command Line    |
+|Exit       |Exits CCI              |
+|memeofetch |System Utilities Shower|

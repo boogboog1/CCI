@@ -1,0 +1,18 @@
+ 		 User@PC
+		--------- 
+	 ____  ____  ______		OS:  Custom Command Interface 1.0 on Python
+	/ __/ / __/  \_  _/		Host: Edgar 1.1 
+	||    ||       ||		Kernel: Python 3
+	||__  ||__    _||_		Uptime: Interchangeable
+   /\___\ \___\  /____\		Packages: 5 (System
+   /			       \	Shell: CCI Version 1.0
+  /  		            \	Resolution: Command-Line 
+ /_______________________\	DE: CCI 1.o
+|			              |	WM Theme: CCI-Dark
+|			              |	Theme: CCI Default
+|			              |	Icons: None
+|                         |	Terminal:CCI 
+|				    	  |	CPU:    Undefined
+|			    		  |	GPU:    Undefined 
+|		     			  |	Memory: Undefined
+|						  |	Application:Meme0fetch
